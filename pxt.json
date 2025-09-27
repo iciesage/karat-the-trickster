@@ -1,5 +1,6 @@
 {
     "name": "Karat the Trickster",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
